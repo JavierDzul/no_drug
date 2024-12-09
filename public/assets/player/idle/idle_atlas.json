@@ -1,0 +1,138 @@
+{
+    "frames": [
+        {
+            "filename": "_idle_0",
+            "frame": {
+                "w": 110,
+                "h": 76,
+                "x": 0,
+                "y": 4
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "_idle_1",
+            "frame": {
+                "w": 110,
+                "h": 76,
+                "x": 0,
+                "y": 84
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "_idle_2",
+            "frame": {
+                "w": 110,
+                "h": 76,
+                "x": 120,
+                "y": 4
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "_idle_3",
+            "frame": {
+                "w": 110,
+                "h": 76,
+                "x": 120,
+                "y": 84
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "_idle_4",
+            "frame": {
+                "w": 110,
+                "h": 76,
+                "x": 0,
+                "y": 164
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "_idle_5",
+            "frame": {
+                "w": 110,
+                "h": 76,
+                "x": 120,
+                "y": 164
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "_idle_6",
+            "frame": {
+                "w": 110,
+                "h": 76,
+                "x": 240,
+                "y": 4
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "_idle_7",
+            "frame": {
+                "w": 110,
+                "h": 76,
+                "x": 240,
+                "y": 84
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "_idle_8",
+            "frame": {
+                "w": 110,
+                "h": 76,
+                "x": 240,
+                "y": 164
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "_idle_9",
+            "frame": {
+                "w": 110,
+                "h": 76,
+                "x": 0,
+                "y": 244
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

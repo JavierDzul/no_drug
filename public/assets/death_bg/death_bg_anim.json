@@ -1,0 +1,32 @@
+{
+    "anims": [
+        {
+            "key": "death_bg",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "death_bg",
+                    "frame": "kaleicospio03-sheet_0"
+                },
+                {
+                    "key": "death_bg",
+                    "frame": "kaleicospio03-sheet_1"
+                },
+                {
+                    "key": "death_bg",
+                    "frame": "kaleicospio03-sheet_2"
+                },
+                {
+                    "key": "death_bg",
+                    "frame": "kaleicospio03-sheet_3"
+                },
+                {
+                    "key": "death_bg",
+                    "frame": "kaleicospio03-sheet_4"
+                }
+            ]
+        }
+    ]
+}

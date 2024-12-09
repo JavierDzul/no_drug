@@ -1,0 +1,64 @@
+{
+    "anims": [
+        {
+            "key": "death",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "death",
+                    "frame": "_death_0"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_0"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_0"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_1"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_2"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_3"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_4"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_5"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_6"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_7"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_8"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_9"
+                },
+                {
+                    "key": "death",
+                    "frame": "_death_9"
+                }
+            ]
+        }
+    ]
+}
