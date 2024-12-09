@@ -1,4 +1,4 @@
-import { Physics } from 'phaser';
+
 import { Boot } from './scenes/Boot';
 import { Game } from './scenes/Game';
 import { GameOver } from './scenes/GameOver';
