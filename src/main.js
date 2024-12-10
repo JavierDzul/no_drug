@@ -1,9 +1,9 @@
 
-import { Boot } from './Boot';
-import { Game } from './Game';
-import { GameOver } from './GameOver';
-import { MainMenu } from './MainMenu';
-import { Preloader } from './Preloader';
+import { Boot } from './Boot.js';
+import { Game } from './Game.js';
+import { GameOver } from './GameOver.js';
+import { MainMenu } from './MainMenu.js';
+import { Preloader } from './Preloader.js';
 
 //  Find out more information about the Game Config at:
 //  https://newdocs.phaser.io/docs/3.70.0/Phaser.Types.Core.GameConfig
