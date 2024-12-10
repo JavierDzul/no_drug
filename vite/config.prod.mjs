@@ -17,7 +17,7 @@ const phasermsg = () => {
 }   
 
 export default defineConfig({
-    base: '/no_drugs/',
+    base: './',
     logLevel: 'warning',
     build: {
         rollupOptions: {
